@@ -1,6 +1,9 @@
-## Welcome to Applied Math's Peer Coding Review 👋
+# Welcome to Applied Math's Peer Coding Review 👋
 
 <!--
 
 **More information about the group coming soon! **
 -->
+
+## Getting Started
+To get started, please check out our [Wiki](https://github.com/Peer-Code-Review/.github/wiki), or our [guidelines document](https://docs.google.com/document/d/1vvopoecmVpDh908BJeasz20YMN967EEScy7fyuvOUqA/edit?usp=sharing).
