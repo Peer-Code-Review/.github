@@ -7,7 +7,8 @@
 <!--
 ** Some placeholder gif to get started **
 -->
-![gif_idea_PCR](https://github.com/Peer-Code-Review/.github/assets/40783656/c6b33c4e-79a6-40f3-9111-167c880c2cbd)
+![gif_idea_PCR](https://github.com/Peer-Code-Review/.github/assets/40783656/e5fd3eaf-07de-494c-861e-fb01bb4f8723)
+
 
 ## Getting Started
 To get started, please check out our [wiki](https://github.com/Peer-Code-Review/.github/wiki/Landing-Page), or our [guidelines document](https://docs.google.com/document/d/1vvopoecmVpDh908BJeasz20YMN967EEScy7fyuvOUqA/edit?usp=sharing).
