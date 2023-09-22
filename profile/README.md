@@ -7,7 +7,7 @@
 <!--
 ** Some placeholder gif to get started **
 -->
-![gif_idea_PCR](https://github.com/Peer-Code-Review/.github/assets/40783656/e5fd3eaf-07de-494c-861e-fb01bb4f8723)
+![gif_idea_PCR](https://github.com/Peer-Code-Review/.github/assets/40783656/f61423b9-9e00-4634-b971-eef909c93b97)
 
 
 ## Getting Started
