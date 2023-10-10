@@ -7,7 +7,8 @@
 <!--
 ** Gif **
 -->
-![Blue Futuristic Technology Youtube Video Ad resized](https://github.com/Peer-Code-Review/.github/assets/40783656/a2b24ee0-3245-4e43-94a8-56fb05698a16)
+![Blue Futuristic Technology Youtube Video Ad resized](https://github.com/Peer-Code-Review/.github/assets/40783656/29370e55-19f2-45ba-be45-6499ca0fa49c)
+
 
 
 
