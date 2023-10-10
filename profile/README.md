@@ -5,9 +5,10 @@
 -->
 
 <!--
-** Some placeholder gif to get started **
+** Gif **
 -->
-![gif_idea_PCR](https://github.com/Peer-Code-Review/.github/assets/40783656/f61423b9-9e00-4634-b971-eef909c93b97)
+![Blue Futuristic Technology Youtube Video Ad resized](https://github.com/Peer-Code-Review/.github/assets/40783656/a2b24ee0-3245-4e43-94a8-56fb05698a16)
+
 
 
 ## Getting Started
